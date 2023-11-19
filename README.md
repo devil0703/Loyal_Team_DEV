@@ -1,5 +1,5 @@
 <h2 align="center">
-  Wyvern Team Portfolio<br/>
+  Loyal Team<br/>
   <a href="https://wyvernteam.com" target="_blank">Live Demo</a>
 </h2>
 
