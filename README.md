@@ -1,6 +1,5 @@
 <h2 align="center">
-  Wyvern Team Portfolio<br/>
-  <a href="https://wyvernteam.com" target="_blank">Live Demo</a>
+  Loyal Team<br/>
 </h2>
 
 ![](https://raw.githubusercontent.com/GamerRaven/Wyvern-Team-Portfolio/main/README/desktop.png)
