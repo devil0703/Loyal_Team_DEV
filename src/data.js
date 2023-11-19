@@ -2,7 +2,7 @@
 
 //Design Images and Data
 import website0 from "../src/assets/portfolio/design/outdefine.png"
-import website01 from "../src/assets/portfolio/design/innovation.png"
+import website01 from "../src/assets/portfolio/design/ink.png"
 import website1 from "../src/assets/portfolio/design/caratlane.png"
 import website2 from "../src/assets/portfolio/design/dkarts.png"
 import website3 from "../src/assets/portfolio/design/doodleblue.png"
